@@ -2,7 +2,7 @@
 function Footer() {
     return (
       <footer className="app-footer">
-        © 2025 Mohamed Chliyah — Génération automatique PERT..
+        © 2025 Mohamed Chliyah — Génération automatique PERT.
       </footer>
     );
   }
